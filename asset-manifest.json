@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Bank-of-Flatiron%20/static/css/main.f2799871.css",
-    "main.js": "/Bank-of-Flatiron%20/static/js/main.61be1c08.js",
-    "static/js/787.bad639be.chunk.js": "/Bank-of-Flatiron%20/static/js/787.bad639be.chunk.js",
-    "static/media/logo.svg": "/Bank-of-Flatiron%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Bank-of-Flatiron%20/index.html",
-    "main.f2799871.css.map": "/Bank-of-Flatiron%20/static/css/main.f2799871.css.map",
-    "main.61be1c08.js.map": "/Bank-of-Flatiron%20/static/js/main.61be1c08.js.map",
-    "787.bad639be.chunk.js.map": "/Bank-of-Flatiron%20/static/js/787.bad639be.chunk.js.map"
+    "main.css": "/Bank-of-Flatiron/static/css/main.f2799871.css",
+    "main.js": "/Bank-of-Flatiron/static/js/main.d6a93d73.js",
+    "static/js/787.bad639be.chunk.js": "/Bank-of-Flatiron/static/js/787.bad639be.chunk.js",
+    "static/media/logo.svg": "/Bank-of-Flatiron/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Bank-of-Flatiron/index.html",
+    "main.f2799871.css.map": "/Bank-of-Flatiron/static/css/main.f2799871.css.map",
+    "main.d6a93d73.js.map": "/Bank-of-Flatiron/static/js/main.d6a93d73.js.map",
+    "787.bad639be.chunk.js.map": "/Bank-of-Flatiron/static/js/787.bad639be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2799871.css",
-    "static/js/main.61be1c08.js"
+    "static/js/main.d6a93d73.js"
   ]
 }
